@@ -1,0 +1,16 @@
+{
+  "name": "Ward Mission Huddle",
+  "short_name": "Huddle",
+  "description": "Sunday coordination worksheet for ward mission leaders.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF1EE",
+  "theme_color": "#2F4858",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
